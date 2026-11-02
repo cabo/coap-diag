@@ -18,6 +18,7 @@ author:
 - name: Jaime Jimenez
   org: Ericsson
   email: jaime@iki.fi
+  country: Finland
 - name: Carsten Bormann
   org: Universität Bremen TZI
   street: Postfach 330440
